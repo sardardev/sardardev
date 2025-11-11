@@ -55,12 +55,12 @@
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
+  <!-- Contribution Streak -->
   <img src="https://streak-stats.demolab.com?user=sardardev&theme=dark&ring=3674B5&fire=3674B5&currStreakLabel=3674B5&sideNums=3674B5&sideLabels=3674B5&dates=3674B5&border_radius=6&background=0D1117&stroke=3674B5" height="170" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
+  <!-- Activity Graph (All Commits + PRs + Issues) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sardardev&bg_color=0D1117&color=3674B5&line=3674B5&point=3674B5&area_color=0D1117&title_color=3674B5&hide_border=true" width="95%" />
 </p>
 
@@ -70,6 +70,39 @@
 </p>
 
 ---
+
+### 🧩 Contributions Overview
+
+| Metric | Description |
+|--------|--------------|
+| 🧠 **Total Commits** | Includes commits across **public and private repositories** |
+| 🚀 **Pull Requests (PRs)** | Shows contributions to other open-source projects |
+| 🧱 **Issues Created** | Tracks reported bugs, suggestions, or feature requests |
+| 🌍 **Repositories Contributed To** | Count of external projects you’ve helped improve |
+| ⭐ **Stars Earned** | From community recognition on your public repos |
+| 🍴 **Forks of Your Repos** | Shows how many developers use your projects |
+| 🔗 **Connected Projects** | Ongoing collaboration and external code contributions |
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sardardev&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=3674B5&text_color=3674B5" width="95%" />
+</p>
+
+---
+
+### 🌐 Connected & Collaborative Projects
+
+- 🧩 **[Publefy](https://github.com/sardardev/publefy)** — AI-powered meme automation and social media dashboard  
+- ⚙️ **[Junzi Tech Solutions](https://github.com/sardardev/junzi-tech)** — software consulting & full-stack systems  
+- 📱 **Flutter UI Components** — reusable widgets and animation kits for cross-platform apps  
+- 🧠 **Golang Microservices** — distributed architecture experiments and APIs  
+- 🔒 **Auth-RS (Rust)** — lightweight authentication microservice with JWT + Argon2  
+
+---
+
+<p align="center">
+  <i>“Code with precision. Build with purpose.”</i>
+</p>
+
 
 
 
